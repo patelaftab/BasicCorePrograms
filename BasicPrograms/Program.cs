@@ -9,7 +9,8 @@ namespace BasicPrograms
             //LargestNumber.LargestAmongThree();
             //QuotientAndReminder.FindingValues();
             //EvenOdd.FindingEvenorOdd();
-            SwapNumbers.ChangingNumbers();
+            //SwapNumbers.ChangingNumbers();
+            OvalAndConsonants.CheckingOvalAndConsonants();
         }
     }
 }
