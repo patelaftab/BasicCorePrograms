@@ -43,11 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EvenOdd.cs" />
     <Compile Include="LargestNumber.cs" />
+    <Compile Include="OddEven.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuotientAndReminder.cs" />
+    <Compile Include="SwapNumbers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

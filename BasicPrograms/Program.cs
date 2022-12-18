@@ -8,7 +8,8 @@ namespace BasicPrograms
 
             //LargestNumber.LargestAmongThree();
             //QuotientAndReminder.FindingValues();
-            EvenOdd.FindingEvenorOdd();
+            //EvenOdd.FindingEvenorOdd();
+            SwapNumbers.ChangingNumbers();
         }
     }
 }
