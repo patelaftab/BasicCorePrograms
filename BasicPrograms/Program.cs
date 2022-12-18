@@ -7,7 +7,8 @@ namespace BasicPrograms
         {
 
             //LargestNumber.LargestAmongThree();
-            QuotientAndReminder.FindingValues();
+            //QuotientAndReminder.FindingValues();
+            EvenOdd.FindingEvenorOdd();
         }
     }
 }
