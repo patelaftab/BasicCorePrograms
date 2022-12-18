@@ -5,7 +5,9 @@ namespace BasicPrograms
     {
         static void Main(string[] args)
         {
-            LargestNumber.LargestAmongThree();
+
+            //LargestNumber.LargestAmongThree();
+            QuotientAndReminder.FindingValues();
         }
     }
 }
