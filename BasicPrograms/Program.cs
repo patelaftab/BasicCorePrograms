@@ -14,7 +14,8 @@ namespace BasicPrograms
             // OvalAndConsonants.CheckingOvalAndConsonants();
             //LeapYear.CheckingLeapYear();
             // PowerOf2.PowerValue();
-            CoinFlip.HeadVsTail();
+            //CoinFlip.HeadVsTail();
+            PrimeFactorization.PrimeFactors();
         }
     }
 }
