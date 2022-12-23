@@ -12,7 +12,8 @@ namespace BasicPrograms
             //EvenOdd.FindingEvenorOdd();
             //SwapNumbers.ChangingNumbers();
             // OvalAndConsonants.CheckingOvalAndConsonants();
-            LeapYear.CheckingLeapYear();
+            //LeapYear.CheckingLeapYear();
+            PowerOf2.PowerValue();
         }
     }
 }
