@@ -13,7 +13,8 @@ namespace BasicPrograms
             //SwapNumbers.ChangingNumbers();
             // OvalAndConsonants.CheckingOvalAndConsonants();
             //LeapYear.CheckingLeapYear();
-            PowerOf2.PowerValue();
+            // PowerOf2.PowerValue();
+            CoinFlip.HeadVsTail();
         }
     }
 }
