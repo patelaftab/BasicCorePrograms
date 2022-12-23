@@ -15,7 +15,8 @@ namespace BasicPrograms
             //LeapYear.CheckingLeapYear();
             // PowerOf2.PowerValue();
             //CoinFlip.HeadVsTail();
-            PrimeFactorization.PrimeFactors();
+            //PrimeFactorization.PrimeFactors();
+            HarmonicNumbers.HarmonicNumber();
         }
     }
 }
